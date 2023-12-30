@@ -14,7 +14,7 @@ BBot is a versatile Discord bot designed to enhance your server's functionality 
 
 ## Getting Started
 
-To add BBot to your server, simply click on the following [link](https://dsc.gg/bluedevhub) and follow the instructions.
+To add BBot to your server, simply click on the following [link](https://discord.com/api/oauth2/authorize?client_id=1189264887742988480&permissions=8&scope=bot) and follow the instructions.
 
 ## Commands
 
