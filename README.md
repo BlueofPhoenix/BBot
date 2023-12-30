@@ -1,6 +1,6 @@
 # BBot - Discord Bot
 
-![BBot Logo] (link-to-your-logo.png] [https://postimg.cc/XBn6LX3C]
+![BBot Logo] (link-to-your-logo.png] (https://postimg.cc/XBn6LX3C)
 
 BBot is a versatile Discord bot designed to enhance your server's functionality and provide a seamless experience for your community.
 
