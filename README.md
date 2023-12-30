@@ -1,6 +1,7 @@
 # BBot - Discord Bot
 
-![BBot Logo] (https://postimg.cc/XBn6LX3C)
+![LogoDiscord](https://github.com/BlueofPhoenix/BBot/assets/153670319/6b3b666f-f64a-4eee-b167-49ed83c4ca1f)
+
 
 BBot is a versatile Discord bot designed to enhance your server's functionality and provide a seamless experience for your community.
 
