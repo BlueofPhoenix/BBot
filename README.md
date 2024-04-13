@@ -12,10 +12,6 @@ BBot is a versatile Discord bot designed to enhance your server's functionality 
 - **Moderation Commands:** Keep your server in check with moderation commands to manage users and maintain a healthy environment.
 - **Fun and Utility Commands:** From memes to information retrieval, BBot offers a variety of fun and utility commands to engage your community.
 
-## Getting Started
-
-To add BBot to your server, simply click on the following [link](https://discord.com/api/oauth2/authorize?client_id=1189264887742988480&permissions=8&scope=bot) and follow the instructions.
-
 ## Commands
 
 - `/help`: Display a list of available commands and their descriptions.
